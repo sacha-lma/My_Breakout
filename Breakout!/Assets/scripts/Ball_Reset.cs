@@ -3,6 +3,8 @@ using UnityEngine;
 public class Ball_Reset : MonoBehaviour
 {
     public float minY = -5.5f;
+    
+    public float MaxVelocity = 15f;
 
     private Rigidbody2D RB;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -19,5 +21,10 @@ public class Ball_Reset : MonoBehaviour
                 transform.position = Vector3.zero;
                 RB.linearVelocity = Vector2.zero;
             }
+
+        if (RB.linearVelocity.magnitude > MaxVelocity)
+        {
+            RB.linearVelocity = RB.linearVelocity.normalized * MaxVelocity;
+        }
     }
 }
