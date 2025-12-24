@@ -583,6 +583,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minY: -5.5
+  MaxVelocity: 15
 --- !u!1 &1658606497
 GameObject:
   m_ObjectHideFlags: 0
