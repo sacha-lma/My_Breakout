@@ -15,10 +15,13 @@ public class BallBehaviors : MonoBehaviour
     public GameObject[] lifeIcons;
     
     public GameObject gameOverPanel;
+    public GameObject YouWinPanel;
+    int bricksCount;
 
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        bricksCount = GameObject.FindGameObjectsWithTag("Brick").Length;
     }
 
     private void Update()
@@ -52,12 +55,23 @@ public class BallBehaviors : MonoBehaviour
         Destroy(collision.gameObject);
         _score += 100;
         scoreText.text = _score.ToString("00000");
+        bricksCount--;
+        if (bricksCount <= 0)
+        {
+            YouWin();
+        }
     }
     
     private void GameOver()
     {
-        Debug.Log("Game Over");
         gameOverPanel.SetActive(true);
+        Time.timeScale = 0f;
+        Destroy(gameObject);
+    }
+
+    private void YouWin()
+    {
+        YouWinPanel.SetActive(true);
         Time.timeScale = 0f;
         Destroy(gameObject);
     }
