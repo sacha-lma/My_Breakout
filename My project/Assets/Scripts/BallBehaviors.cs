@@ -7,21 +7,25 @@ public class BallBehaviors : MonoBehaviour
     
     public float minY = -5.5f;
     public float maxSpeed = 15f;
+    public float speed = 10f;
 
-    private int _score = 0;
+    public GameObject Paddle;
+    
+    private int _score;
     public TextMeshProUGUI scoreText;
 
     private int _lives = 5;
     public GameObject[] lifeIcons;
     
     public GameObject gameOverPanel;
-    public GameObject YouWinPanel;
-    int bricksCount;
+    public GameObject youWinPanel;
+    private int _bricksCount;
 
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        bricksCount = GameObject.FindGameObjectsWithTag("Brick").Length;
+        _bricksCount = GameObject.FindGameObjectsWithTag("Brick").Length;
+        _rb.linearVelocity = Vector2.down * speed;
     }
 
     private void Update()
@@ -35,7 +39,8 @@ public class BallBehaviors : MonoBehaviour
             }
             transform.position = Vector3.zero;
             transform.position = Vector3.forward;
-            _rb.linearVelocity = Vector3.zero;
+            _rb.linearVelocity = Vector2.down * speed;
+            Paddle.transform.position = Vector3.zero + Vector3.forward + Vector3.down * 4f;
             _lives--;
             if (_lives >= 0 && _lives < lifeIcons.Length)
             {
@@ -55,8 +60,8 @@ public class BallBehaviors : MonoBehaviour
         Destroy(collision.gameObject);
         _score += 100;
         scoreText.text = _score.ToString("00000");
-        bricksCount--;
-        if (bricksCount <= 0)
+        _bricksCount--;
+        if (_bricksCount <= 0)
         {
             YouWin();
         }
@@ -71,7 +76,7 @@ public class BallBehaviors : MonoBehaviour
 
     private void YouWin()
     {
-        YouWinPanel.SetActive(true);
+        youWinPanel.SetActive(true);
         Time.timeScale = 0f;
         Destroy(gameObject);
     }
