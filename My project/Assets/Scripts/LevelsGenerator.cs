@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LevelsGenerator : MonoBehaviour
 {
@@ -29,5 +30,11 @@ public class LevelsGenerator : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void Restart()
+    {
+        Time.timeScale = 1;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }
