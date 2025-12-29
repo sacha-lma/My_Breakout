@@ -1,13 +1,13 @@
 using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using Random = System.Random;
 
 public class LevelsGenerator : MonoBehaviour
 {
     public Vector2Int gridSize;
     public Vector2 offset;
-    public GameObject brickPrefab;
-    public Gradient brickColorGradient;
+    public GameObject[] brickPrefab;
 
     private void Awake()
     {
@@ -15,9 +15,9 @@ public class LevelsGenerator : MonoBehaviour
         {
             for (int y = 0; y < gridSize.y; y++)
             {
-                GameObject NewBrick = Instantiate(brickPrefab, transform);
+                int index = UnityEngine.Random.Range(0, brickPrefab.Length);
+                GameObject NewBrick = Instantiate(brickPrefab[index], transform);
                 NewBrick.transform.position = transform.position + new Vector3(((gridSize.x - 1) * .5f - x) * offset.x, y * offset.y, 0);
-                NewBrick.GetComponent<SpriteRenderer>().color = brickColorGradient.Evaluate((float)y / (gridSize.y - 1));
             }
         }
     }
