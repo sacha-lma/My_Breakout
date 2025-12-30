@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 820.8
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 382}
   m_MaxSize: {x: 10000, y: 10000}
@@ -237,7 +237,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: ConsoleWindow
+  m_Name: ProjectBrowser
   m_EditorClassIdentifier: 
   m_Children: []
   m_Position:
@@ -246,16 +246,16 @@ MonoBehaviour:
     y: 509.6
     width: 1147.2
     height: 255.19998
-  m_MinSize: {x: 101, y: 126}
-  m_MaxSize: {x: 4001, y: 4026}
-  m_ActualView: {fileID: 19}
+  m_MinSize: {x: 231, y: 276}
+  m_MaxSize: {x: 10001, y: 10026}
+  m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
   - {fileID: 19}
   - {fileID: 18}
-  m_Selected: 2
-  m_LastSelected: 3
+  m_Selected: 3
+  m_LastSelected: 2
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1089,9 +1089,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -2.0963686, y: 1.0813186, z: 3.230719}
+    m_Target: {x: 482.836, y: 174.29062, z: 0.3925962}
     speed: 2
-    m_Value: {x: 596.7883, y: 228.2707, z: 0.03434419}
+    m_Value: {x: 482.836, y: 174.29062, z: 0.3925962}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1141,9 +1141,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 6.3496113
+    m_Target: 290.16168
     speed: 2
-    m_Value: 222.87228
+    m_Value: 290.16168
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -1417,9 +1417,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 588.8
+    y: 533.6
     width: 1146.2
-    height: 229.19998
+    height: 229.20001
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -1442,7 +1442,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1452,16 +1452,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\Sacha\OneDrive\Bureau\My_Breakout\My project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 52d50000
-    m_LastClickedID: 54610
-    m_ExpandedIDs: 00000000
+    m_SelectedIDs: acb50000
+    m_LastClickedID: 46508
+    m_ExpandedIDs: 0000000072b30000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1490,7 +1490,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000
+    m_ExpandedIDs: 0000000072b30000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1516,8 +1516,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: de9dffffae92fefff692feff3e93feff8693feff2894feff
-    m_LastClickedInstanceID: -25122
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 306c00009463000020630000024f0000f8f2000000f30000faf20000e2910000ba2704000a280400d02704006827040074c90000e8a6ffff000000008849ffff06ba0000a6d100000809ffff2aba000042ba0000d0be00003cc20000fcbb0000a2bd000038b9000024b90000
     m_RenameOverlay:
@@ -1570,9 +1570,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 533.6
+    y: 588.8
     width: 1146.2
-    height: 229.20001
+    height: 229.19998
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0

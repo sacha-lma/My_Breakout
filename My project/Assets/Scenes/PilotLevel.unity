@@ -335,8 +335,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minY: -5.5
-  maxSpeed: 15
-  speed: 10
+  maxSpeed: 10
+  speed: 5
   Paddle: {fileID: 1559717318}
   scoreText: {fileID: 1665775626}
   lifeIcons:

@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 1e676d21ef6ee87418c3722ca5484ce0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1139607855481114186
+    second: SandySprite_0
+  - first:
+      213: -3033197286711149850
+    second: SandySprite_1
+  - first:
+      213: -6186317101332589873
+    second: SandySprite_2
+  - first:
+      213: -5063247033413231787
+    second: SandySprite_3
+  - first:
+      213: 6991804917503257781
+    second: SandySprite_4
+  - first:
+      213: -1378096676740373374
+    second: SandySprite_5
+  - first:
+      213: -7159724834948503482
+    second: SandySprite_6
+  - first:
+      213: 883049430443519216
+    second: SandySprite_7
+  - first:
+      213: -4176165335094386274
+    second: SandySprite_8
+  - first:
+      213: 6464844149771495274
+    second: SandySprite_9
+  - first:
+      213: -8580187299066233731
+    second: SandySprite_10
+  - first:
+      213: 1348708721083063757
+    second: SandySprite_11
+  - first:
+      213: 4752345944985405145
+    second: SandySprite_12
+  - first:
+      213: -5717854613487040878
+    second: SandySprite_13
+  - first:
+      213: 5037274024541363559
+    second: SandySprite_14
+  - first:
+      213: 3092613025371465251
+    second: SandySprite_15
+  - first:
+      213: 7245263715338734504
+    second: SandySprite_16
+  - first:
+      213: 8242214544645190480
+    second: SandySprite_17
+  - first:
+      213: 1852334296678258839
+    second: SandySprite_18
+  - first:
+      213: 9110808894410689154
+    second: SandySprite_19
+  - first:
+      213: 7558567581133871354
+    second: SandySprite_20
+  - first:
+      213: -4351046943348293845
+    second: SandySprite_21
+  - first:
+      213: -8350286269754414978
+    second: SandySprite_22
+  - first:
+      213: -6481118949752835500
+    second: SandySprite_23
+  - first:
+      213: -6495250288108611389
+    second: SandySprite_24
+  - first:
+      213: -795185393672764536
+    second: SandySprite_25
+  - first:
+      213: -4958899524824557835
+    second: SandySprite_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SandySprite_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 384
+        height: 1021
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1bdce71bc4f20f0800000000000000
+      internalID: -1139607855481114186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 142
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea37e7632be7e5d0800000000000000
+      internalID: -3033197286711149850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 95
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc295237f59c52aa0800000000000000
+      internalID: -6186317101332589873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 951
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b9a5b36abbbb9b0800000000000000
+      internalID: -5063247033413231787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 895
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc6c9e3781e70160800000000000000
+      internalID: 6991804917503257781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 870
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2846ebcbf5400ece0800000000000000
+      internalID: -1378096676740373374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 846
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6482a5b423c83ac90800000000000000
+      internalID: -7159724834948503482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 838
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc62b447c8314c00800000000000000
+      internalID: 883049430443519216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 824
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91266601c74b06c0800000000000000
+      internalID: -4176165335094386274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 807
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a676463808db7b950800000000000000
+      internalID: 6464844149771495274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 734
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cb6dc7c1d0de880800000000000000
+      internalID: -8580187299066233731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 719
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd90a1af6397b210800000000000000
+      internalID: 1348708721083063757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 622
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d68f9c3579b3f140800000000000000
+      internalID: 4752345944985405145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_13
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 542
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c6c5068916a0b0800000000000000
+      internalID: -5717854613487040878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_14
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 406
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d1715690ef7e540800000000000000
+      internalID: 5037274024541363559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_15
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 350
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3262305492b2bea20800000000000000
+      internalID: 3092613025371465251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 326
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abcac846f85c8460800000000000000
+      internalID: 7245263715338734504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 231
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537220957a326270800000000000000
+      internalID: 8242214544645190480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 222
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798d7ce8a30d4b910800000000000000
+      internalID: 1852334296678258839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_19
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 198
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a81d71b68107e70800000000000000
+      internalID: 9110808894410689154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 190
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af894440b2d65e860800000000000000
+      internalID: 7558567581133871354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 182
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ffcac9bd9fd93c0800000000000000
+      internalID: -4351046943348293845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78677e11e2dd1c80800000000000000
+      internalID: -8350286269754414978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452fde457a07e06a0800000000000000
+      internalID: -6481118949752835500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8580ab64c3cd5a0800000000000000
+      internalID: -6495250288108611389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 1097
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8834e87f81fe6f4f0800000000000000
+      internalID: -795185393672764536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandySprite_26
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 982
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f69af1d7237e2bb0800000000000000
+      internalID: -4958899524824557835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SandySprite_0: -1139607855481114186
+      SandySprite_1: -3033197286711149850
+      SandySprite_10: -8580187299066233731
+      SandySprite_11: 1348708721083063757
+      SandySprite_12: 4752345944985405145
+      SandySprite_13: -5717854613487040878
+      SandySprite_14: 5037274024541363559
+      SandySprite_15: 3092613025371465251
+      SandySprite_16: 7245263715338734504
+      SandySprite_17: 8242214544645190480
+      SandySprite_18: 1852334296678258839
+      SandySprite_19: 9110808894410689154
+      SandySprite_2: -6186317101332589873
+      SandySprite_20: 7558567581133871354
+      SandySprite_21: -4351046943348293845
+      SandySprite_22: -8350286269754414978
+      SandySprite_23: -6481118949752835500
+      SandySprite_24: -6495250288108611389
+      SandySprite_25: -795185393672764536
+      SandySprite_26: -4958899524824557835
+      SandySprite_3: -5063247033413231787
+      SandySprite_4: 6991804917503257781
+      SandySprite_5: -1378096676740373374
+      SandySprite_6: -7159724834948503482
+      SandySprite_7: 883049430443519216
+      SandySprite_8: -4176165335094386274
+      SandySprite_9: 6464844149771495274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
