@@ -392,6 +392,7 @@ GameObject:
   - component: {fileID: 958381698}
   - component: {fileID: 958381701}
   - component: {fileID: 958381702}
+  - component: {fileID: 958381703}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -527,6 +528,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 154b7ab4f291dbf4c91afd6c285e89b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &958381703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 958381697}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1cff10ca4d241d749bfda2ce43a13e7f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1105632310
@@ -687,8 +700,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 958381702}
-        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
+      - m_Target: {fileID: 958381703}
+        m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
         m_MethodName: QuitGame
         m_Mode: 1
         m_Arguments:
@@ -834,8 +847,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 958381702}
-        m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
+      - m_Target: {fileID: 958381703}
+        m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
         m_MethodName: PlayGame
         m_Mode: 1
         m_Arguments:

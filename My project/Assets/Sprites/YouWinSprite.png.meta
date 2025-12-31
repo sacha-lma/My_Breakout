@@ -1,0 +1,3783 @@
+fileFormatVersion: 2
+guid: 351c0b83faa5942429af92d488a42bc9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 131260679475067959
+    second: YouWinSprite_0
+  - first:
+      213: -6756250246982756841
+    second: YouWinSprite_1
+  - first:
+      213: 4631825367557088784
+    second: YouWinSprite_2
+  - first:
+      213: -633894631063325392
+    second: YouWinSprite_3
+  - first:
+      213: 9091334210932578196
+    second: YouWinSprite_4
+  - first:
+      213: 4328717709015068200
+    second: YouWinSprite_5
+  - first:
+      213: -1053288268872133054
+    second: YouWinSprite_6
+  - first:
+      213: -8096553312547912933
+    second: YouWinSprite_7
+  - first:
+      213: -6241846146431454338
+    second: YouWinSprite_8
+  - first:
+      213: 1659143632352055208
+    second: YouWinSprite_9
+  - first:
+      213: 4799678260751568192
+    second: YouWinSprite_10
+  - first:
+      213: 166997161068110906
+    second: YouWinSprite_11
+  - first:
+      213: -2428829451034466612
+    second: YouWinSprite_12
+  - first:
+      213: 8317366391858051300
+    second: YouWinSprite_13
+  - first:
+      213: -4084271685207309299
+    second: YouWinSprite_14
+  - first:
+      213: 2523809266387685486
+    second: YouWinSprite_15
+  - first:
+      213: 2469007942591654997
+    second: YouWinSprite_16
+  - first:
+      213: -4765322957268092819
+    second: YouWinSprite_17
+  - first:
+      213: -5018808623915509925
+    second: YouWinSprite_18
+  - first:
+      213: -7172235551259574116
+    second: YouWinSprite_19
+  - first:
+      213: 5693217449380378810
+    second: YouWinSprite_20
+  - first:
+      213: 4144395515075983010
+    second: YouWinSprite_21
+  - first:
+      213: -2987778510328148087
+    second: YouWinSprite_22
+  - first:
+      213: 4224087590524160448
+    second: YouWinSprite_23
+  - first:
+      213: -5226625886495356851
+    second: YouWinSprite_24
+  - first:
+      213: 2315628130561143406
+    second: YouWinSprite_25
+  - first:
+      213: -7659383520561005922
+    second: YouWinSprite_26
+  - first:
+      213: -1440183940306410022
+    second: YouWinSprite_27
+  - first:
+      213: 3176300875308436432
+    second: YouWinSprite_28
+  - first:
+      213: 6086848273417938521
+    second: YouWinSprite_29
+  - first:
+      213: -6982852000954159534
+    second: YouWinSprite_30
+  - first:
+      213: 1095122166661654937
+    second: YouWinSprite_31
+  - first:
+      213: 6862959577317711368
+    second: YouWinSprite_32
+  - first:
+      213: -2156007602940445381
+    second: YouWinSprite_33
+  - first:
+      213: -2855482382918072399
+    second: YouWinSprite_34
+  - first:
+      213: 1837542412692802933
+    second: YouWinSprite_35
+  - first:
+      213: 2950103316247294883
+    second: YouWinSprite_36
+  - first:
+      213: -3231568898078305604
+    second: YouWinSprite_37
+  - first:
+      213: -730691032421311506
+    second: YouWinSprite_38
+  - first:
+      213: -6519917885515311473
+    second: YouWinSprite_39
+  - first:
+      213: 1393686422899403285
+    second: YouWinSprite_40
+  - first:
+      213: -1072507096247305588
+    second: YouWinSprite_41
+  - first:
+      213: 2820036576288797507
+    second: YouWinSprite_42
+  - first:
+      213: -7597792324154548880
+    second: YouWinSprite_43
+  - first:
+      213: -6001251684555261573
+    second: YouWinSprite_44
+  - first:
+      213: 3725799749888024797
+    second: YouWinSprite_45
+  - first:
+      213: 8546515291358931941
+    second: YouWinSprite_46
+  - first:
+      213: -5097305754727338575
+    second: YouWinSprite_47
+  - first:
+      213: 9136973466260570058
+    second: YouWinSprite_48
+  - first:
+      213: -1204920285443236864
+    second: YouWinSprite_49
+  - first:
+      213: -572912441525591215
+    second: YouWinSprite_50
+  - first:
+      213: -8920921656183265163
+    second: YouWinSprite_51
+  - first:
+      213: -7438647989558876905
+    second: YouWinSprite_52
+  - first:
+      213: -5623502352648164894
+    second: YouWinSprite_53
+  - first:
+      213: -4504692964713084612
+    second: YouWinSprite_54
+  - first:
+      213: -6486051154902731060
+    second: YouWinSprite_55
+  - first:
+      213: 4110910497983336681
+    second: YouWinSprite_56
+  - first:
+      213: -2780123368028157984
+    second: YouWinSprite_57
+  - first:
+      213: -6600868258262760178
+    second: YouWinSprite_58
+  - first:
+      213: 3721381048349806615
+    second: YouWinSprite_59
+  - first:
+      213: 8675368071805941385
+    second: YouWinSprite_60
+  - first:
+      213: 483495510509831636
+    second: YouWinSprite_61
+  - first:
+      213: -3470140492715067681
+    second: YouWinSprite_62
+  - first:
+      213: -5987287460717260164
+    second: YouWinSprite_63
+  - first:
+      213: 4655594725517648848
+    second: YouWinSprite_64
+  - first:
+      213: 6543727685986002654
+    second: YouWinSprite_65
+  - first:
+      213: 8939862926665232603
+    second: YouWinSprite_66
+  - first:
+      213: -7700299809481385769
+    second: YouWinSprite_67
+  - first:
+      213: 2355799419595902528
+    second: YouWinSprite_68
+  - first:
+      213: -4406377272493711732
+    second: YouWinSprite_69
+  - first:
+      213: 714962524595604691
+    second: YouWinSprite_70
+  - first:
+      213: -8625140186439665577
+    second: YouWinSprite_71
+  - first:
+      213: 8926641627929656683
+    second: YouWinSprite_72
+  - first:
+      213: -6930466344875121316
+    second: YouWinSprite_73
+  - first:
+      213: 5061338866940771384
+    second: YouWinSprite_74
+  - first:
+      213: -8470853908112000789
+    second: YouWinSprite_75
+  - first:
+      213: -7030300175427605886
+    second: YouWinSprite_76
+  - first:
+      213: -46588721008425096
+    second: YouWinSprite_77
+  - first:
+      213: -5174088709361937883
+    second: YouWinSprite_78
+  - first:
+      213: -3485139931028924780
+    second: YouWinSprite_79
+  - first:
+      213: 1526589607020296846
+    second: YouWinSprite_80
+  - first:
+      213: -2829585196619802991
+    second: YouWinSprite_81
+  - first:
+      213: -1954218541814360090
+    second: YouWinSprite_82
+  - first:
+      213: 5070253457326763323
+    second: YouWinSprite_83
+  - first:
+      213: 4235179346999157885
+    second: YouWinSprite_84
+  - first:
+      213: 3214104587244998087
+    second: YouWinSprite_85
+  - first:
+      213: 5109823662042216581
+    second: YouWinSprite_86
+  - first:
+      213: -1213732503879118080
+    second: YouWinSprite_87
+  - first:
+      213: 3056808271115905920
+    second: YouWinSprite_88
+  - first:
+      213: -3108636363670300481
+    second: YouWinSprite_89
+  - first:
+      213: 7739992377373581511
+    second: YouWinSprite_90
+  - first:
+      213: 614062072034722443
+    second: YouWinSprite_91
+  - first:
+      213: 6733375024525045394
+    second: YouWinSprite_92
+  - first:
+      213: -4159286181052738360
+    second: YouWinSprite_93
+  - first:
+      213: -4988210008973674591
+    second: YouWinSprite_94
+  - first:
+      213: -5878347769887949943
+    second: YouWinSprite_95
+  - first:
+      213: -7261783565226811825
+    second: YouWinSprite_96
+  - first:
+      213: 2810269033393363666
+    second: YouWinSprite_97
+  - first:
+      213: 7071217413447267124
+    second: YouWinSprite_98
+  - first:
+      213: 6913168570079984648
+    second: YouWinSprite_99
+  - first:
+      213: -7034704664775398174
+    second: YouWinSprite_100
+  - first:
+      213: 954895916942679617
+    second: YouWinSprite_101
+  - first:
+      213: 4021493399273479806
+    second: YouWinSprite_102
+  - first:
+      213: 5707008889061257070
+    second: YouWinSprite_103
+  - first:
+      213: -6232136850370110921
+    second: YouWinSprite_104
+  - first:
+      213: 2001204500434481416
+    second: YouWinSprite_105
+  - first:
+      213: -9025191491425847986
+    second: YouWinSprite_106
+  - first:
+      213: -7719105351301003056
+    second: YouWinSprite_107
+  - first:
+      213: 41390371174722496
+    second: YouWinSprite_108
+  - first:
+      213: -5001873091351794
+    second: YouWinSprite_109
+  - first:
+      213: 9172600942403301632
+    second: YouWinSprite_110
+  - first:
+      213: 838052016950605348
+    second: YouWinSprite_111
+  - first:
+      213: -5662193812755296134
+    second: YouWinSprite_112
+  - first:
+      213: -8210315006782936056
+    second: YouWinSprite_113
+  - first:
+      213: -4843184521423393773
+    second: YouWinSprite_114
+  - first:
+      213: -2031456332868952999
+    second: YouWinSprite_115
+  - first:
+      213: -5535409951998444184
+    second: YouWinSprite_116
+  - first:
+      213: -1192223156437987308
+    second: YouWinSprite_117
+  - first:
+      213: -5353000128773129532
+    second: YouWinSprite_118
+  - first:
+      213: 2947758456730623017
+    second: YouWinSprite_119
+  - first:
+      213: -8389955959647009830
+    second: YouWinSprite_120
+  - first:
+      213: 7403579443797936189
+    second: YouWinSprite_121
+  - first:
+      213: 1248115232360887955
+    second: YouWinSprite_122
+  - first:
+      213: -7386793540746388972
+    second: YouWinSprite_123
+  - first:
+      213: 5760779363081164781
+    second: YouWinSprite_124
+  - first:
+      213: -4148396402384527363
+    second: YouWinSprite_125
+  - first:
+      213: -6266530936451019478
+    second: YouWinSprite_126
+  - first:
+      213: -8542882173178959534
+    second: YouWinSprite_127
+  - first:
+      213: -2202626753086566225
+    second: YouWinSprite_128
+  - first:
+      213: 1467188968130634956
+    second: YouWinSprite_129
+  - first:
+      213: 1000460704868628809
+    second: YouWinSprite_130
+  - first:
+      213: 1217606915368520355
+    second: YouWinSprite_131
+  - first:
+      213: 4034272706533818067
+    second: YouWinSprite_132
+  - first:
+      213: 3268390723527772682
+    second: YouWinSprite_133
+  - first:
+      213: -389293330610532610
+    second: YouWinSprite_134
+  - first:
+      213: 7778202095105005338
+    second: YouWinSprite_135
+  - first:
+      213: -607768768841607355
+    second: YouWinSprite_136
+  - first:
+      213: -6282334440164955818
+    second: YouWinSprite_137
+  - first:
+      213: 1873072425506079291
+    second: YouWinSprite_138
+  - first:
+      213: -1108557162982699226
+    second: YouWinSprite_139
+  - first:
+      213: 1190162624802665323
+    second: YouWinSprite_140
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YouWinSprite_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 331
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c761d74e452d100800000000000000
+      internalID: 131260679475067959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 904
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71692fe423afc32a0800000000000000
+      internalID: -6756250246982756841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 856
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01622ee91ac874040800000000000000
+      internalID: 4631825367557088784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_3
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035717a0134f337f0800000000000000
+      internalID: -633894631063325392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 863
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4971ef00c48ea2e70800000000000000
+      internalID: 9091334210932578196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_5
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 907
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e29c262d1b21c30800000000000000
+      internalID: 4328717709015068200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 821
+        width: 237
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2465ac766e7f161f0800000000000000
+      internalID: -1053288268872133054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 875
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13c19cd8a343af80800000000000000
+      internalID: -8096553312547912933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_8
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 899
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73ff4320028069a0800000000000000
+      internalID: -6241846146431454338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 899
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af02b5d756760710800000000000000
+      internalID: 1659143632352055208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_10
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 841
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d0348c2f1eb9240800000000000000
+      internalID: 4799678260751568192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 823
+        width: 196
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34a6ff780b415200800000000000000
+      internalID: 166997161068110906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 898
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc665179b701b4ed0800000000000000
+      internalID: -2428829451034466612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_13
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 819
+        width: 80
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8b8758aa83d6370800000000000000
+      internalID: 8317366391858051300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_14
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 899
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04480daa80c157c0800000000000000
+      internalID: -4084271685207309299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_15
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 911
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6090e3f72f560320800000000000000
+      internalID: 2523809266387685486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_16
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 819
+        width: 82
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c2bc574ada34220800000000000000
+      internalID: 2469007942591654997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 893
+        width: 59
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d687504a40c2eddb0800000000000000
+      internalID: -4765322957268092819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 843
+        width: 27
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5759d7b52c995ab0800000000000000
+      internalID: -5018808623915509925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_19
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 821
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90ceb924c9177c90800000000000000
+      internalID: -7172235551259574116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_20
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 870
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab87f533b1f520f40800000000000000
+      internalID: 5693217449380378810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 871
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a673d453c9d38930800000000000000
+      internalID: 4144395515075983010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 863
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f485856474986d0800000000000000
+      internalID: -2987778510328148087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_23
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 822
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9045d8849fe9a30800000000000000
+      internalID: 4224087590524160448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_24
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 873
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d484595b27b4777b0800000000000000
+      internalID: -5226625886495356851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_25
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 865
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62bff91483c22020800000000000000
+      internalID: 2315628130561143406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_26
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 859
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9afa7ae44764b590800000000000000
+      internalID: -7659383520561005922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_27
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 864
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad560d23650730ce0800000000000000
+      internalID: -1440183940306410022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 854
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db858c31dc741c20800000000000000
+      internalID: 3176300875308436432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 855
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a6c25144d87450800000000000000
+      internalID: 6086848273417938521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_30
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 858
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e60041a1de71f90800000000000000
+      internalID: -6982852000954159534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_31
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 855
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9992681fec7a23f00800000000000000
+      internalID: 1095122166661654937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_32
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 856
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e13e1cf512e3f50800000000000000
+      internalID: 6862959577317711368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_33
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 848
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d71b512825412e0800000000000000
+      internalID: -2156007602940445381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_34
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 853
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b748c7d6e94f58d0800000000000000
+      internalID: -2855482382918072399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 838
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dc440b613408910800000000000000
+      internalID: 1837542412692802933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_36
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 837
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a33f97f55fd0f820800000000000000
+      internalID: 2950103316247294883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 799
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb297d275392723d0800000000000000
+      internalID: -3231568898078305604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_38
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 815
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebd6fb90601cd5f0800000000000000
+      internalID: -730691032421311506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_39
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 840
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86d4252a399485a0800000000000000
+      internalID: -6519917885515311473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_40
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 843
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2435ea6e575310800000000000000
+      internalID: 1393686422899403285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_41
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 792
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8af7157a70bd11f0800000000000000
+      internalID: -1072507096247305588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_42
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 850
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3437d4f2358c22720800000000000000
+      internalID: 2820036576288797507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_43
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 813
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d1491d2283f8690800000000000000
+      internalID: -7597792324154548880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_44
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 813
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b797e5e836547bca0800000000000000
+      internalID: -6001251684555261573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_45
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 837
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a054e123b4b330800000000000000
+      internalID: 3725799749888024797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_46
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 840
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eba4e840625b9670800000000000000
+      internalID: 8546515291358931941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_47
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 832
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd2ce93c6bb249b0800000000000000
+      internalID: -5097305754727338575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_48
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 823
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf71a235fc0dce70800000000000000
+      internalID: 9136973466260570058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_49
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 831
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5e736263474fe0800000000000000
+      internalID: -1204920285443236864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 761
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153277b7b2b9c08f0800000000000000
+      internalID: -572912441525591215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_51
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 823
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5786b1ec405823480800000000000000
+      internalID: -8920921656183265163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_52
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 809
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7156b2da01d94c890800000000000000
+      internalID: -7438647989558876905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_53
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 773
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e925d4a76e45f1b0800000000000000
+      internalID: -5623502352648164894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_54
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 827
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3943109d9d1c71c0800000000000000
+      internalID: -4504692964713084612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_55
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 815
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6b205d6daecf5a0800000000000000
+      internalID: -6486051154902731060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_56
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 823
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e098bf3153ec0930800000000000000
+      internalID: 4110910497983336681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_57
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 799
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e74be8c6840b69d0800000000000000
+      internalID: -2780123368028157984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1536
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c811ca410564a0800000000000000
+      internalID: -6600868258262760178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_59
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 795
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710d2c4c85005a330800000000000000
+      internalID: 3721381048349806615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_60
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 753
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98632c71c49156870800000000000000
+      internalID: 8675368071805941385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_61
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 811
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54f6aea98b5b600800000000000000
+      internalID: 483495510509831636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_62
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 798
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6f4038b9597dfc0800000000000000
+      internalID: -3470140492715067681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_63
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 817
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c721cc7c6c1e8eca0800000000000000
+      internalID: -5987287460717260164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_64
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 806
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d369a88cbefb9040800000000000000
+      internalID: 4655594725517648848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_65
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 788
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6a51609adffca50800000000000000
+      internalID: 6543727685986002654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_66
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 617
+        width: 75
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0b09467f5c01c70800000000000000
+      internalID: 8939862926665232603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 589
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d89ad70f1a032590800000000000000
+      internalID: -7700299809481385769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 77
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ec51f271b71b020800000000000000
+      internalID: 2355799419595902528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_69
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 536
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e58a6773769d2c0800000000000000
+      internalID: -4406377272493711732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 495
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dccc3ac0ae0ce900800000000000000
+      internalID: 714962524595604691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_71
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 444
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583159c2b85d4880800000000000000
+      internalID: -8625140186439665577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_72
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 448
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d36f5e34dc1eb70800000000000000
+      internalID: 8926641627929656683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 27
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552be9149902df90800000000000000
+      internalID: -6930466344875121316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_74
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 142
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cf1e322ec7d3640800000000000000
+      internalID: 5061338866940771384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_75
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 148
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be831c6404b717a80800000000000000
+      internalID: -8470853908112000789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_76
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 149
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a65431d3b5f6e90800000000000000
+      internalID: -7030300175427605886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_77
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 151
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877c0c91ecb7a5ff0800000000000000
+      internalID: -46588721008425096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_78
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 153
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5225f1a7bb1f138b0800000000000000
+      internalID: -5174088709361937883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_79
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 150
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496dd72a2bb42afc0800000000000000
+      internalID: -3485139931028924780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_80
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 150
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a7f3cc8298f2510800000000000000
+      internalID: 1526589607020296846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_81
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 155
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d5c5614b4bb8d0800000000000000
+      internalID: -2829585196619802991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_82
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 153
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e75ca1179831e4e0800000000000000
+      internalID: -1954218541814360090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_83
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 115
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d6825f7a82d5640800000000000000
+      internalID: 5070253457326763323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 137
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74a4f95d2166ca30800000000000000
+      internalID: 4235179346999157885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_85
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 133
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd01b1d71bca9c20800000000000000
+      internalID: 3214104587244998087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_86
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58879e03c8db9e640800000000000000
+      internalID: 5109823662042216581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00390f5e7b4f72fe0800000000000000
+      internalID: -1213732503879118080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_88
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 145
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08be65a4de6fb6a20800000000000000
+      internalID: 3056808271115905920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_89
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 123
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d19f82b7ebd4d0800000000000000
+      internalID: -3108636363670300481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_90
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 139
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c065991f0af96b60800000000000000
+      internalID: 7739992377373581511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_91
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 135
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b828ba97336958800800000000000000
+      internalID: 614062072034722443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_92
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 127
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e6d4ce8e0c17d50800000000000000
+      internalID: 6733375024525045394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_93
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 128
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c41923514f3746c0800000000000000
+      internalID: -4159286181052738360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_94
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 117
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7731eec6156cab0800000000000000
+      internalID: -4988210008973674591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_95
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 124
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b7e9d19d9eb6ea0800000000000000
+      internalID: -5878347769887949943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_96
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 135
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ed2ee6256f83b90800000000000000
+      internalID: -7261783565226811825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_97
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 136
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da11b2ebc4100720800000000000000
+      internalID: 2810269033393363666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_98
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 119
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433b41ac5c2022260800000000000000
+      internalID: 7071217413447267124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_99
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c330cdf2280ff50800000000000000
+      internalID: 6913168570079984648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_100
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 124
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec674cf065bf5e90800000000000000
+      internalID: -7034704664775398174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_101
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 99
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed6d6f6c8704d00800000000000000
+      internalID: 954895916942679617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_102
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 126
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e164a90f63fc730800000000000000
+      internalID: 4021493399273479806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_103
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 127
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f2e7af85e533f40800000000000000
+      internalID: 5707008889061257070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_104
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 121
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a511acd800389a0800000000000000
+      internalID: -6232136850370110921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_105
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 111
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8017f4be3e4b5cb10800000000000000
+      internalID: 2001204500434481416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_106
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 107
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453fa3f72410c280800000000000000
+      internalID: -9025191491425847986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_107
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 110
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d803ef949a30e490800000000000000
+      internalID: -7719105351301003056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_108
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 103
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbadf2c25c039000800000000000000
+      internalID: 41390371174722496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_109
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bad2ba2da3eeff0800000000000000
+      internalID: -5001873091351794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_110
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 103
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001bc5665ff9b4f70800000000000000
+      internalID: 9172600942403301632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_111
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 98
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426f3a58edb51ab00800000000000000
+      internalID: 838052016950605348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_112
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 103
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a705e451ab8db61b0800000000000000
+      internalID: -5662193812755296134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_113
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 103
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ce4ae500a1f0e80800000000000000
+      internalID: -8210315006782936056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_114
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 97
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c63ea865d89ccb0800000000000000
+      internalID: -4843184521423393773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_115
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cd0a67a31dec3e0800000000000000
+      internalID: -2031456332868952999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_116
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 90
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d78fcf9f54e23b0800000000000000
+      internalID: -5535409951998444184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 95
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d48b1b5f547fe0800000000000000
+      internalID: -1192223156437987308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_118
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 95
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca7bd98eb256b5b0800000000000000
+      internalID: -5353000128773129532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_119
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 97
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c1511d2ba88e820800000000000000
+      internalID: 2947758456730623017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_120
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 88
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad38110b183e09b80800000000000000
+      internalID: -8389955959647009830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_121
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 69
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38c5fd374cceb660800000000000000
+      internalID: 7403579443797936189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_122
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 95
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396ff97e032325110800000000000000
+      internalID: 1248115232360887955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_123
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 87
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a59ae5966dc7990800000000000000
+      internalID: -7386793540746388972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_124
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 85
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de79add0f4662ff40800000000000000
+      internalID: 5760779363081164781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_125
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 95
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff9c50837fed66c0800000000000000
+      internalID: -4148396402384527363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_126
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 61
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d47d6905fc809a0800000000000000
+      internalID: -6266530936451019478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_127
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259a6a5fce5917980800000000000000
+      internalID: -8542882173178959534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_128
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d08953a2be61e0800000000000000
+      internalID: -2202626753086566225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_129
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 73
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc46ccfc7908c5410800000000000000
+      internalID: 1467188968130634956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_130
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9497e6dd5b952ed00800000000000000
+      internalID: 1000460704868628809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_131
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 74
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa8992d90fc5e010800000000000000
+      internalID: 1217606915368520355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_132
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de7000f6ad9cf730800000000000000
+      internalID: 4034272706533818067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_133
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a0e0fdb08ab5d20800000000000000
+      internalID: 3268390723527772682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_134
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 71
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efec78347c3f89af0800000000000000
+      internalID: -389293330610532610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_135
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 57
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17dee54899b1fb60800000000000000
+      internalID: 7778202095105005338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_136
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5479e9b5685c097f0800000000000000
+      internalID: -607768768841607355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_137
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 63
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e3c5ac1aa0d8a0800000000000000
+      internalID: -6282334440164955818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_138
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b328ed0727d7ef910800000000000000
+      internalID: 1873072425506079291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_139
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8337322d9d90f0800000000000000
+      internalID: -1108557162982699226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouWinSprite_140
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b633f4cf99e448010800000000000000
+      internalID: 1190162624802665323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YouWinSprite_0: 131260679475067959
+      YouWinSprite_1: -6756250246982756841
+      YouWinSprite_10: 4799678260751568192
+      YouWinSprite_100: -7034704664775398174
+      YouWinSprite_101: 954895916942679617
+      YouWinSprite_102: 4021493399273479806
+      YouWinSprite_103: 5707008889061257070
+      YouWinSprite_104: -6232136850370110921
+      YouWinSprite_105: 2001204500434481416
+      YouWinSprite_106: -9025191491425847986
+      YouWinSprite_107: -7719105351301003056
+      YouWinSprite_108: 41390371174722496
+      YouWinSprite_109: -5001873091351794
+      YouWinSprite_11: 166997161068110906
+      YouWinSprite_110: 9172600942403301632
+      YouWinSprite_111: 838052016950605348
+      YouWinSprite_112: -5662193812755296134
+      YouWinSprite_113: -8210315006782936056
+      YouWinSprite_114: -4843184521423393773
+      YouWinSprite_115: -2031456332868952999
+      YouWinSprite_116: -5535409951998444184
+      YouWinSprite_117: -1192223156437987308
+      YouWinSprite_118: -5353000128773129532
+      YouWinSprite_119: 2947758456730623017
+      YouWinSprite_12: -2428829451034466612
+      YouWinSprite_120: -8389955959647009830
+      YouWinSprite_121: 7403579443797936189
+      YouWinSprite_122: 1248115232360887955
+      YouWinSprite_123: -7386793540746388972
+      YouWinSprite_124: 5760779363081164781
+      YouWinSprite_125: -4148396402384527363
+      YouWinSprite_126: -6266530936451019478
+      YouWinSprite_127: -8542882173178959534
+      YouWinSprite_128: -2202626753086566225
+      YouWinSprite_129: 1467188968130634956
+      YouWinSprite_13: 8317366391858051300
+      YouWinSprite_130: 1000460704868628809
+      YouWinSprite_131: 1217606915368520355
+      YouWinSprite_132: 4034272706533818067
+      YouWinSprite_133: 3268390723527772682
+      YouWinSprite_134: -389293330610532610
+      YouWinSprite_135: 7778202095105005338
+      YouWinSprite_136: -607768768841607355
+      YouWinSprite_137: -6282334440164955818
+      YouWinSprite_138: 1873072425506079291
+      YouWinSprite_139: -1108557162982699226
+      YouWinSprite_14: -4084271685207309299
+      YouWinSprite_140: 1190162624802665323
+      YouWinSprite_15: 2523809266387685486
+      YouWinSprite_16: 2469007942591654997
+      YouWinSprite_17: -4765322957268092819
+      YouWinSprite_18: -5018808623915509925
+      YouWinSprite_19: -7172235551259574116
+      YouWinSprite_2: 4631825367557088784
+      YouWinSprite_20: 5693217449380378810
+      YouWinSprite_21: 4144395515075983010
+      YouWinSprite_22: -2987778510328148087
+      YouWinSprite_23: 4224087590524160448
+      YouWinSprite_24: -5226625886495356851
+      YouWinSprite_25: 2315628130561143406
+      YouWinSprite_26: -7659383520561005922
+      YouWinSprite_27: -1440183940306410022
+      YouWinSprite_28: 3176300875308436432
+      YouWinSprite_29: 6086848273417938521
+      YouWinSprite_3: -633894631063325392
+      YouWinSprite_30: -6982852000954159534
+      YouWinSprite_31: 1095122166661654937
+      YouWinSprite_32: 6862959577317711368
+      YouWinSprite_33: -2156007602940445381
+      YouWinSprite_34: -2855482382918072399
+      YouWinSprite_35: 1837542412692802933
+      YouWinSprite_36: 2950103316247294883
+      YouWinSprite_37: -3231568898078305604
+      YouWinSprite_38: -730691032421311506
+      YouWinSprite_39: -6519917885515311473
+      YouWinSprite_4: 9091334210932578196
+      YouWinSprite_40: 1393686422899403285
+      YouWinSprite_41: -1072507096247305588
+      YouWinSprite_42: 2820036576288797507
+      YouWinSprite_43: -7597792324154548880
+      YouWinSprite_44: -6001251684555261573
+      YouWinSprite_45: 3725799749888024797
+      YouWinSprite_46: 8546515291358931941
+      YouWinSprite_47: -5097305754727338575
+      YouWinSprite_48: 9136973466260570058
+      YouWinSprite_49: -1204920285443236864
+      YouWinSprite_5: 4328717709015068200
+      YouWinSprite_50: -572912441525591215
+      YouWinSprite_51: -8920921656183265163
+      YouWinSprite_52: -7438647989558876905
+      YouWinSprite_53: -5623502352648164894
+      YouWinSprite_54: -4504692964713084612
+      YouWinSprite_55: -6486051154902731060
+      YouWinSprite_56: 4110910497983336681
+      YouWinSprite_57: -2780123368028157984
+      YouWinSprite_58: -6600868258262760178
+      YouWinSprite_59: 3721381048349806615
+      YouWinSprite_6: -1053288268872133054
+      YouWinSprite_60: 8675368071805941385
+      YouWinSprite_61: 483495510509831636
+      YouWinSprite_62: -3470140492715067681
+      YouWinSprite_63: -5987287460717260164
+      YouWinSprite_64: 4655594725517648848
+      YouWinSprite_65: 6543727685986002654
+      YouWinSprite_66: 8939862926665232603
+      YouWinSprite_67: -7700299809481385769
+      YouWinSprite_68: 2355799419595902528
+      YouWinSprite_69: -4406377272493711732
+      YouWinSprite_7: -8096553312547912933
+      YouWinSprite_70: 714962524595604691
+      YouWinSprite_71: -8625140186439665577
+      YouWinSprite_72: 8926641627929656683
+      YouWinSprite_73: -6930466344875121316
+      YouWinSprite_74: 5061338866940771384
+      YouWinSprite_75: -8470853908112000789
+      YouWinSprite_76: -7030300175427605886
+      YouWinSprite_77: -46588721008425096
+      YouWinSprite_78: -5174088709361937883
+      YouWinSprite_79: -3485139931028924780
+      YouWinSprite_8: -6241846146431454338
+      YouWinSprite_80: 1526589607020296846
+      YouWinSprite_81: -2829585196619802991
+      YouWinSprite_82: -1954218541814360090
+      YouWinSprite_83: 5070253457326763323
+      YouWinSprite_84: 4235179346999157885
+      YouWinSprite_85: 3214104587244998087
+      YouWinSprite_86: 5109823662042216581
+      YouWinSprite_87: -1213732503879118080
+      YouWinSprite_88: 3056808271115905920
+      YouWinSprite_89: -3108636363670300481
+      YouWinSprite_9: 1659143632352055208
+      YouWinSprite_90: 7739992377373581511
+      YouWinSprite_91: 614062072034722443
+      YouWinSprite_92: 6733375024525045394
+      YouWinSprite_93: -4159286181052738360
+      YouWinSprite_94: -4988210008973674591
+      YouWinSprite_95: -5878347769887949943
+      YouWinSprite_96: -7261783565226811825
+      YouWinSprite_97: 2810269033393363666
+      YouWinSprite_98: 7071217413447267124
+      YouWinSprite_99: 6913168570079984648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
