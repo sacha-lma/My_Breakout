@@ -8,7 +8,7 @@ public class Tuto_2_Juggle : MonoBehaviour
 
     private void Update()
     {
-        if (_toWin >= 6)
+        if (_toWin >= 5)
         {
             YouWin();
         }

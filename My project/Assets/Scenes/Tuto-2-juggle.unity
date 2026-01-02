@@ -310,11 +310,11 @@ MonoBehaviour:
   Paddle: {fileID: 1477195816}
   scoreText: {fileID: 677389636}
   lifeIcons:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 111670998}
+  - {fileID: 922930142}
+  - {fileID: 876290931}
+  - {fileID: 1711585700}
+  - {fileID: 1638537159}
   gameOverPanel: {fileID: 1780294910}
   youWinPanel: {fileID: 1290475875}
 --- !u!58 &322399757

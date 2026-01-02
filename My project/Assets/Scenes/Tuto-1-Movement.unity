@@ -271,6 +271,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3aa5c1327dfa8ca4facf3f740fb9c7e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ball: {fileID: 1741097339}
   dialog: {fileID: 229940997}
   text: {fileID: 1049975577}
   dialogue:
@@ -1654,7 +1655,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!60 &1741097340
 PolygonCollider2D:
   m_ObjectHideFlags: 0
