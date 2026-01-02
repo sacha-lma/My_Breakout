@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Brick
   - Paddle
+  - TwhoHitBrick
+  - Breakable
+  - Unbreakable
   layers:
   - Default
   - TransparentFX

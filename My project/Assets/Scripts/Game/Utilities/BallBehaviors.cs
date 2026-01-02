@@ -19,12 +19,11 @@ public class BallBehaviors : MonoBehaviour
     
     public GameObject gameOverPanel;
     public GameObject youWinPanel;
-    private int _bricksCount;
+    public int bricksCount;
 
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        _bricksCount = GameObject.FindGameObjectsWithTag("Brick").Length;
         _rb.linearVelocity = Vector2.down * speed;
     }
 
@@ -56,12 +55,24 @@ public class BallBehaviors : MonoBehaviour
     
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag != "Brick") return;
-        Destroy(collision.gameObject);
-        _score += 100;
-        scoreText.text = _score.ToString("00000");
-        _bricksCount--;
-        if (_bricksCount <= 0)
+        Debug.Log(collision.gameObject.tag);
+        switch (collision.gameObject.tag)
+        {
+            case "Brick":
+                Destroy(collision.gameObject);
+                _score += 100;
+                scoreText.text = _score.ToString("00000");
+                bricksCount--;
+                break;
+            case "Breakable":
+                Destroy(collision.gameObject);
+                _score += 250;
+                scoreText.text = _score.ToString("00000");
+                bricksCount--;
+                break;
+        }
+
+        if (bricksCount <= 0)
         {
             YouWin();
         }
