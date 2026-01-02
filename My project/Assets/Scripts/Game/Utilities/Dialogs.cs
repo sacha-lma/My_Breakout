@@ -6,6 +6,7 @@ using UnityEngine;
 
 public class Dialogs : MonoBehaviour
 {
+    public GameObject ball;
     public GameObject dialog;
     public TextMeshProUGUI text;
     public string[] dialogue;
@@ -26,6 +27,7 @@ public class Dialogs : MonoBehaviour
         text.text = "";
         _index = 0;
         dialog.SetActive(false);
+        ball.SetActive(true);
     }
 
     IEnumerator Typing()
