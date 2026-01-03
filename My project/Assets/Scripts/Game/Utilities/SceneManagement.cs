@@ -9,6 +9,11 @@ public class SceneManagement : MonoBehaviour
         SceneManager.LoadSceneAsync(0);
     }
 
+    public void Back()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+    }
+
     public void PlayGame()
     {
         SceneManager.LoadSceneAsync(1);
