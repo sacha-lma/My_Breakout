@@ -70,4 +70,9 @@ public class settings : MonoBehaviour
     {
         masterMixer.SetFloat("Music-Volume", volume > MasterVolume ? MasterVolume : volume);
     }
+    
+    public void SetQuality(int qualityIndex)
+    {
+        QualitySettings.SetQualityLevel(qualityIndex);
+    }
 }
