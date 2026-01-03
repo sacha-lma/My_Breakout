@@ -6409,7 +6409,7 @@ GameObject:
   - component: {fileID: 1971424852}
   - component: {fileID: 1971424855}
   m_Layer: 5
-  m_Name: BackButton
+  m_Name: MainMenuButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6432,7 +6432,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -348}
-  m_SizeDelta: {x: 300, y: 250}
+  m_SizeDelta: {x: 400, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1971424852
 MonoBehaviour:
@@ -6480,7 +6480,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 79818918}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: Back
+        m_MethodName: MainMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6510,7 +6510,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -4302725396141254621, guid: 658fd4272d75f01408ce710b2e41368e, type: 3}
+  m_Sprite: {fileID: -3682700955729487774, guid: 0d72b465ebc16c741beec231918ddea2, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

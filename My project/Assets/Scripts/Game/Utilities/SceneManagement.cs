@@ -1,17 +1,36 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneManagement : MonoBehaviour
 {
+    public GameObject PauseMenu;
+    
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            PauseGame();
+        }
+    }
+
+    public void PauseGame()
+    {
+        if (PauseMenu.activeSelf)
+        {
+            Time.timeScale = 1f;
+            PauseMenu.SetActive(false);
+        }
+        else
+        {
+            Time.timeScale = 0f;
+            PauseMenu.SetActive(true);
+        }
+    }
 
     public void MainMenu()
     {
         SceneManager.LoadSceneAsync(0);
-    }
-
-    public void Back()
-    {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
     }
 
     public void PlayGame()
@@ -62,6 +81,11 @@ public class SceneManagement : MonoBehaviour
     public void Tutorial_8_FarFromUs()
     {
         SceneManager.LoadSceneAsync(9);
+    }
+    
+    public void Settings()
+    {
+        SceneManager.LoadSceneAsync(10);
     }
 
 }
