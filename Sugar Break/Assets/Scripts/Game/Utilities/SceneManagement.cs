@@ -88,4 +88,54 @@ public class SceneManagement : MonoBehaviour
         SceneManager.LoadSceneAsync(10);
     }
 
+    public void Level_1()
+    {
+        SceneManager.LoadSceneAsync(11);
+    }
+    
+    public void Level_2()
+    {
+        SceneManager.LoadSceneAsync(12);
+    }
+    
+    public void Level_3()
+    {
+        SceneManager.LoadSceneAsync(13);
+    }
+    
+    public void Level_4()
+    {
+        SceneManager.LoadSceneAsync(14);
+    }
+    
+    public void Level_5()
+    {
+        SceneManager.LoadSceneAsync(15);
+    }
+    
+    public void Level_6()
+    {
+        SceneManager.LoadSceneAsync(16);
+    }
+    
+    public void Level_7()
+    {
+        SceneManager.LoadSceneAsync(17);
+    }
+    
+    public void Level_8()
+    {
+        SceneManager.LoadSceneAsync(18);
+    }
+    
+    public void Level_9()
+    {
+        SceneManager.LoadSceneAsync(19);
+    }
+    
+    public void Level_10()
+    {
+        SceneManager.LoadSceneAsync(20);
+    }
+
 }
