@@ -21,6 +21,9 @@ public class BallBehaviors : MonoBehaviour
     public GameObject youWinPanel;
     public int bricksCount;
 
+    private int _timeInY;
+    private Vector3 _lasty;
+
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
@@ -29,6 +32,21 @@ public class BallBehaviors : MonoBehaviour
 
     private void Update()
     {
+        if (gameObject.transform.position.y == _lasty.y)
+        {
+            _timeInY++;
+        }
+        else
+        {
+            _lasty = gameObject.transform.position;
+            _timeInY = 0;
+        }
+        if (_timeInY > 100)
+        {
+            float randomX = Random.Range(-1f, 1f);
+            _rb.linearVelocity = new Vector2(randomX, -1).normalized * speed;
+            _timeInY = 0;
+        }
         if (transform.position.y < minY)
         {
             if (_lives <= 0)
@@ -55,7 +73,6 @@ public class BallBehaviors : MonoBehaviour
     
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log(collision.gameObject.tag);
         switch (collision.gameObject.tag)
         {
             case "Brick":
