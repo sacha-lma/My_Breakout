@@ -2983,7 +2983,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1449381201}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: Tutorial_3_OneBreak
+        m_MethodName: Tutorial_6_TwhoHitOneBreak
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

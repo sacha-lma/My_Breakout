@@ -3953,7 +3953,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 380183118}
         m_TargetAssemblyTypeName: SceneManagement, Assembly-CSharp
-        m_MethodName: Tutorial_3_OneBreak
+        m_MethodName: Tutorial_7_Unbreakable
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
