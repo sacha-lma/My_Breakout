@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 229.6
     height: 522.4
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 226}
+  m_MaxSize: {x: 4001, y: 4026}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 44
+  controlID: 41
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 100
+  controlID: 39
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -197,7 +197,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 43
+  controlID: 40
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -218,8 +218,8 @@ MonoBehaviour:
     y: 0
     width: 926.4
     height: 522.4
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 52, y: 76}
+  m_MaxSize: {x: 4002, y: 4026}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 14}
@@ -1554,9 +1554,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 2eb80000
+      m_SelectedIDs: b64a0000
       m_LastClickedID: 0
-      m_ExpandedIDs: 1278fffff27cfffff87cffffac7dffff847effff3c87ffff4e87ffff128affff1a8affff228affff2a8affff328affff3a8affff428affff4a8affff0a8dffff188efffff28fffff1e90ffffdc90ffffee90ffff0491ffff2691ffff3891ffff4a91ffff5a91ffff6a91ffff7291ffff8c91ffff8aa1ffff9ca1ffff30a4ffff38a4ffff40a4ffff48a4ffff50a4ffff58a4ffff60a4ffff68a4ffff28a7ffff36a8ffff10aaffff3caafffffaaaffff0cabffff22abffff44abffff56abffff68abffff78abffff88abffff90abffffaaabffff8aadffff84aeffff3aafffffe2b6fffff4b6ffffb8b9ffffc0b9ffffc8b9ffffd0b9ffffd8b9ffffe0b9ffffe8b9fffff0b9ffffb0bcffffbebdffff98bfffffc4bfffff82c0ffff94c0ffffaac0ffffccc0ffffdec0fffff0c0ffff00c1ffff10c1ffff18c1ffff32c1ffff8adaffff9edafffff0daffff9edcffff52ddffff28e6fffff8e6ffff1ef0ffff72f4ffff0afbffffe2c50000fcc50000a4220100d83c0100
+      m_ExpandedIDs: 0afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1628,7 +1628,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes/Menu
+    - Assets/Scripts/Game/Utilities
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1638,16 +1638,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/Scenes/Menu
+  - Assets/Scripts/Game/Utilities
   m_LastFoldersGridSize: 96
   m_LastProjectPath: C:\Users\Sacha\OneDrive\Bureau\Sugar Break\Sugar Break
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 15.600037}
-    m_SelectedIDs: 18b90000
-    m_LastClickedID: 47384
-    m_ExpandedIDs: 0000000016b8000018b80000fab80000
+    scrollPos: {x: 0, y: 65.60065}
+    m_SelectedIDs: 24b60000
+    m_LastClickedID: 46628
+    m_ExpandedIDs: 00000000a8b30000aab300000eb60000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1676,7 +1676,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000016b8000018b80000
+    m_ExpandedIDs: 00000000a8b30000aab30000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
